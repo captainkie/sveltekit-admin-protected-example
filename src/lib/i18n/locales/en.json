@@ -1,0 +1,71 @@
+{
+	"navbar": {
+		"search": {
+			"text": "Search ..."
+		},
+		"notifications": {
+			"alerts": "Alerts",
+			"warning": "Warning",
+			"new": "New"
+		},
+		"profiles": {
+			"welcome": "Welcome {name} !!",
+			"profile": "Profile",
+			"settings": "Settings",
+			"logout": "Logout"
+		}
+	},
+	"menuitems": {
+		"top": {
+			"text": "Menu"
+		},
+		"dashboard": {
+			"text": "Dashboard UI"
+		}
+	},
+	"common": {
+		"welcome": "Welcome !!",
+		"title": "Dashboard UI :: System Managements",
+		"excerpts": "Dashboard to \"Example\"",
+		"descriptions": "..."
+	},
+	"form": {
+		"email": "Email",
+		"password": "Password",
+		"confirm-password": "Confirm Password",
+		"remember-me": "Remember Me",
+		"forgot-password": "Forgot Password? {link}"
+	},
+	"button": {
+		"submit": "Submit",
+		"cancel": "Cancel",
+		"save": "Save",
+		"edit": "Edit",
+		"delete": "Delete",
+		"add": "Add",
+		"back": "Back",
+		"next": "Next",
+		"prev": "Prev",
+		"finish": "Finish",
+		"search": "Search",
+		"clear": "Clear",
+		"close": "Close",
+		"print": "Print",
+		"export": "Export",
+		"import": "Import",
+		"upload": "Upload",
+		"download": "Download",
+		"refresh": "Refresh",
+		"view": "View",
+		"login": "Login",
+		"logout": "Logout",
+		"register": "Register"
+	},
+	"labels": {
+		"goto-dashboard": "Go to Dashboard",
+		"goto-privacy": "Privacy Policy"
+	},
+	"validations": {
+		"null": " "
+	}
+}
